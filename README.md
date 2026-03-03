@@ -1,4 +1,4 @@
-## Hi there 👋
+## こんにちは 👋 kksan12と申します
 
 <!--
 **keita120/keita120** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,8 +15,12 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![](https://github-readme-stats.vercel.app/api/top-langs?username=keita120&show_icons=true&locale=en&layout=compact)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kksan12)](https://github.com/anuraghazra/github-readme-stats)
 
-![](https://skillicons.dev/icons?i=html,css,rails,mysql)
-![](https://skillicons.dev/icons?i=py,sklearn,tensorflow)
+### メイン
+![](https://skillicons.dev/icons?i=py,mysql)
+
+### 少し
+![](https://skillicons.dev/icons?i=html,css,js,rails)
+![](https://skillicons.dev/icons?i=sklearn,tensorflow)
 ![](https://skillicons.dev/icons?i=blender,unity)
